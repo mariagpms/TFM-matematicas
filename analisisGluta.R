@@ -26,7 +26,7 @@ configGraficas <- list(
 
 # 2. Cargar datos y funciones
 load("data/allResults.RData") 
-source("funcionesCompletoGlutamatergic.R")
+source("funcionesGluta.R")
 source("funcionesPvalores.R")
 
 # Preparación de datos
